@@ -1,1 +1,29 @@
-[]
+[
+   {
+    "patchName": "Custom branding",
+    "options": [
+      {
+        "key": "appName",
+        "value": "JYouTube"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding YouTube name",
+    "options": [
+      {
+        "key": "YouTubeAppName",
+        "value": "JYouTube"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom double tap length",
+    "options": [
+      {
+        "key": "DoubleTapLengthArrays",
+        "value": "5,10,15,20"
+      }
+    ]
+  }
+]
